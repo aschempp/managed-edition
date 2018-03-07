@@ -865,7 +865,7 @@
         },
         {
             "name": "contao/calendar-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/calendar-bundle.git",
@@ -933,7 +933,7 @@
         },
         {
             "name": "contao/comments-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/comments-bundle.git",
@@ -995,16 +995,16 @@
         },
         {
             "name": "contao/core-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/core-bundle.git",
-                "reference": "695c169093d1084601260697af8f7a6a48b7f5bf"
+                "reference": "65ae1882f89de1cd2e7328308cfafe25231ac301"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contao/core-bundle/zipball/695c169093d1084601260697af8f7a6a48b7f5bf",
-                "reference": "695c169093d1084601260697af8f7a6a48b7f5bf",
+                "url": "https://api.github.com/repos/contao/core-bundle/zipball/65ae1882f89de1cd2e7328308cfafe25231ac301",
+                "reference": "65ae1882f89de1cd2e7328308cfafe25231ac301",
                 "shasum": ""
             },
             "require": {
@@ -1137,11 +1137,11 @@
                 }
             ],
             "description": "Contao 4 core bundle",
-            "time": "2018-03-06T08:11:32+00:00"
+            "time": "2018-03-06T14:44:29+00:00"
         },
         {
             "name": "contao/faq-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/faq-bundle.git",
@@ -1308,16 +1308,16 @@
         },
         {
             "name": "contao/installation-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/installation-bundle.git",
-                "reference": "5e7f4482d97fe400161575b46aa596649a8b6f26"
+                "reference": "a81ffdc16878a95670db87e1d738613eee283b86"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contao/installation-bundle/zipball/5e7f4482d97fe400161575b46aa596649a8b6f26",
-                "reference": "5e7f4482d97fe400161575b46aa596649a8b6f26",
+                "url": "https://api.github.com/repos/contao/installation-bundle/zipball/a81ffdc16878a95670db87e1d738613eee283b86",
+                "reference": "a81ffdc16878a95670db87e1d738613eee283b86",
                 "shasum": ""
             },
             "require": {
@@ -1365,11 +1365,11 @@
                 }
             ],
             "description": "Required to install and update Contao 4",
-            "time": "2018-03-06T08:13:25+00:00"
+            "time": "2018-03-06T13:18:29+00:00"
         },
         {
             "name": "contao/listing-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/listing-bundle.git",
@@ -1431,7 +1431,7 @@
         },
         {
             "name": "contao/manager-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/manager-bundle.git",
@@ -1554,7 +1554,7 @@
         },
         {
             "name": "contao/news-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/news-bundle.git",
@@ -1622,7 +1622,7 @@
         },
         {
             "name": "contao/newsletter-bundle",
-            "version": "4.5.5",
+            "version": "4.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/contao/newsletter-bundle.git",
