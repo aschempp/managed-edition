@@ -1,9 +1,11 @@
 # App config
+/app/config/config.yml
 /app/config/parameters.yml
 
 # Composer
-/vendor/
 /.htaccess
+/composer.lock
+/vendor/
 
 # Contao Manager
 /contao-manager/
