@@ -21,7 +21,8 @@
     },
     "require-dev": {
         "contao/core-bundle": "4.6.x-dev",
-        "contao/installation-bundle": "4.6.x-dev"
+        "contao/installation-bundle": "4.6.x-dev",
+        "sensiolabs/security-checker": "^4.1"
     },
     "config": {
         "component-dir": "assets"
