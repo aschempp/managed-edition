@@ -11,13 +11,17 @@
     ],
     "require": {
         "php": "^7.1",
-        "contao/calendar-bundle": "^4.5",
-        "contao/comments-bundle": "^4.5",
-        "contao/faq-bundle": "^4.5",
-        "contao/listing-bundle": "^4.5",
-        "contao/manager-bundle": "4.5.*",
-        "contao/news-bundle": "^4.5",
-        "contao/newsletter-bundle": "^4.5"
+        "contao/calendar-bundle": "4.6.x-dev",
+        "contao/comments-bundle": "4.6.x-dev",
+        "contao/faq-bundle": "4.6.x-dev",
+        "contao/listing-bundle": "4.6.x-dev",
+        "contao/manager-bundle": "4.6.x-dev",
+        "contao/news-bundle": "4.6.x-dev",
+        "contao/newsletter-bundle": "4.6.x-dev"
+    },
+    "require-dev": {
+        "contao/core-bundle": "4.6.x-dev",
+        "contao/installation-bundle": "4.6.x-dev"
     },
     "config": {
         "component-dir": "assets"
