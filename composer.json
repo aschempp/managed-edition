@@ -32,6 +32,11 @@
             "dev-4.6": "4.6.x-dev"
         }
     },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
     "scripts": {
         "post-install-cmd": [
             "Contao\\ManagerBundle\\Composer\\ScriptHandler::initializeApplication"
